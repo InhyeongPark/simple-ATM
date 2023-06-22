@@ -1,2 +1,3 @@
-# simple-ATM
-simple ATM controller challenge
+# Online Assessment for Bear Robotics
+
+Simple ATM Controller
