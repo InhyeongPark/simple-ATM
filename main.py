@@ -8,7 +8,7 @@ output:
     2 -> wrong input
 '''
 def greeting():
-    print('--------------------------------')
+    print('--------------------------------------------------------')
     print('Hello. What can I help you today?')
     n = input('Please press 1 to insert card or 0 to stop this program\n')
     
